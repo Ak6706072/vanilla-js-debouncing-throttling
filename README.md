@@ -1,2 +1,2 @@
-# vanilla-js-debouncing-throttling
+# bady-background
 Created with CodeSandbox
